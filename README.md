@@ -46,3 +46,5 @@
 В папке internal/dependencies находятся все зависимости приложения, такие как:
 - api module
 - repository module
+- page module - для внедрения стейт менеджеров, пример: auth_module, home_module, в которых находятся bloc
+
